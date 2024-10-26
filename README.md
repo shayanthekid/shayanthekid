@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Shayanthekid
+# Hey there! 👋 I'm Sajid
 
 I'm a passionate developer with experience in various fields including web development, C#, Python, and more. I love building innovative solutions and sharing knowledge with others.
 
