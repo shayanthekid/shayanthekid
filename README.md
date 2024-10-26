@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! 👋 I'm Shayanthekid
 
-<!--
-**shayanthekid/shayanthekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with experience in various fields including web development, C#, Python, and more. I love building innovative solutions and sharing knowledge with others.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Currently a lecturer in computer science.
+- 🎮 Interested in video games, AI, and making coding fun.
+- 🌱 Always learning and exploring new technologies to level up my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Languages: C#, Python, JavaScript, and SQL
+- Frameworks & Libraries: .NET, Flutter, Pygame, and more
+- Tools: Visual Studio, Git, XAMPP
+
+## 📈 GitHub Stats
+[![Shayanthekid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanthekid)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 How to Reach Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- Personal Website: [Infinity Store](https://infinitystore.lk/)
