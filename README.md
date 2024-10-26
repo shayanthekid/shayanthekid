@@ -16,5 +16,5 @@ I'm a passionate developer with experience in various fields including web devel
 [![Shayanthekid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanthekid)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sajid-haniff-652911199/)
+- LinkedIn: (https://www.linkedin.com/in/sajid-haniff-652911199/)
   
